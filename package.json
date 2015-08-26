@@ -1,0 +1,11 @@
+{
+  "name": "node-js-tutorial-webserver",
+  "version": "1.0.0",
+  "description": "node js tutorial web server that connects with node-js-tuturorial pub service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
